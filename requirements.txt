@@ -1,1 +1,11 @@
 pandas
+python-docx
+nltk
+python-dotenv
+langchain-openai
+langchain-community
+arxiv
+ipykernel
+sentence_transformers
+langchain_huggingface
+faiss-cpu
